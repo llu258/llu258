@@ -7,7 +7,7 @@
 ### With a background in software engineering and web development, I specialize in creating innovative and user-focused approaches to digital solutions, driven by a passion for continuous learning and technological advancement.  
 
 <div>
-<h3>Conncect with me via Mail or LinkedIn:</h3>
+<h3>Contact me via E-Mail or connect me through my LinkedIn:</h3>
 <a href="mailto:sison.luigijesus@gmail.com"><img src="https://www.transparentpng.com/thumb/email-logo/new-email-logo-transparent-background-WBnBfu.png" height="42" alt="mail"></a>
 <a href="https://www.linkedin.com/in/jesus-luigi-sison-a695221a5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="42" height="42"/></a>
 </div>          
